@@ -180,3 +180,5 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 Exercises_as_of_July_30_2025.txt
+/Math_concepts_to_Clear
+scratchpad_notebook.ipynb
